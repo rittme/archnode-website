@@ -54,3 +54,18 @@ textarea {
 textarea {
   font-size: 20px;
 }
+
+.back {
+  color: #fff;
+  background: rgba(0, 0, 0, 0);
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-decoration: none;
+  transition: 0.2s ease;
+  padding: 15px;
+}
+
+.back:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
