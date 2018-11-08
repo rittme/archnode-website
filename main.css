@@ -37,6 +37,8 @@ body {
   color: #ffffff;
   background: #bf5867;
   padding: 20px 40px;
+  font-size: 30px;
+  border: none;
 }
 
 input,
